@@ -17,3 +17,7 @@ a=b;
 ```
 ## Texto nuevo
 La nueva versión inclurá imáganes en las webs
+
+## Nuevo cambios aprendiendo a usar `pull`
+
+Usando el comando pull vamos a bajar de la nube a nuestro pc los cambios más recientes
